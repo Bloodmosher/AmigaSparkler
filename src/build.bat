@@ -1,0 +1,1 @@
+m68k-amigaos-gcc sparkler.c -o sparkler -Os -noixemul -w
